@@ -1,0 +1,9 @@
+! ------------------------------------------------------------------------------
+! Fonts
+! ------------------------------------------------------------------------------
+
+URxvt.font: xft:Fira Code Retina:regular:size=9
+URxvt.boldFont: xft:Fira Code Retina:bold:size=8
+URxvt.italicFont: xft:Fira Code Retina:italic:size=8
+URxvt.boldItalicfont: xft:Fira Code Retina:boldItalic:size=8
+

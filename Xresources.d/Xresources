@@ -1,0 +1,3 @@
+#include "/home/kautsaralbana/.config/Xresources.d/colors"
+#include "/home/kautsaralbana/.config/Xresources.d/fonts"
+#include "/home/kautsaralbana/.config/Xresources.d/rxvt-unicode"
